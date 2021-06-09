@@ -265,8 +265,6 @@
     <ClInclude Include="..\common\holographic\SpinningCubeRenderer.h" />
     <ClCompile Include="..\common\holographic\RemoteWindowHolographicUwp.cpp" />
     <ClInclude Include="..\common\holographic\RemoteWindowHolographicUwp.h" />
-    <ClCompile Include=".\Content\PerceptionTypes.cpp" />
-    <ClInclude Include=".\Content\PerceptionTypes.h" />
     <ClCompile Include=".\Content\QRCodeRenderer.cpp" />
     <ClInclude Include=".\Content\QRCodeRenderer.h" />
     <ClCompile Include=".\Content\SceneUnderstandingRenderer.cpp" />

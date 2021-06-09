@@ -13,7 +13,6 @@
 
 #include <chrono>
 
-#include <content/PerceptionTypes.h>
 #include <content/QRCodeRenderer.h>
 
 #include <d3d11/DirectXHelper.h>
